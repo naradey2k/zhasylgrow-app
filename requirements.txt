@@ -1,0 +1,4 @@
+matplotlib
+plotly
+pandas
+chembl_webresource_client
