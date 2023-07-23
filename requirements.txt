@@ -20,7 +20,6 @@ colorama==0.4.5
 commonmark==0.9.1
 contourpy==1.0.7
 cycler==0.11.0
-Cython==0.29.32
 decorator==5.1.1
 docopt==0.6.2
 easydict==1.10
@@ -72,11 +71,8 @@ pyarrow==9.0.0
 pyasn1==0.4.8
 pyasn1-modules==0.2.8
 PyAutoGUI==0.9.53
-pycocotools==2.0
 pycryptodomex==3.17
 pydeck==0.8.0
-pygame==2.4.0
-PyGetWindow==0.0.9
 Pygments==2.13.0
 Pympler==1.0.1
 PyMsgBox==1.0.9
