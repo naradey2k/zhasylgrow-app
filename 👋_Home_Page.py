@@ -19,7 +19,7 @@ footer {
 }
 
 footer:after {
-    content: 'Developed by Kasen Zhaniya, Shakibaeva Zhanara and Sultanov Danial';
+    content: 'Developed by Kasen Zhaniya, Shakibaeva Zhanara';
     display: block;
     position: relative;
     color: grey;
